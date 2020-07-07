@@ -80,6 +80,11 @@ button:hover {
   width: 20%;
 }
 
-@media (max-width : 400px){
-h4 {height :60px;}
+
+@media (max-width : 450px){
+h4 {height :55px;}
+button:hover {
+  color: skyblue;
+  background: white;
+}
 }
