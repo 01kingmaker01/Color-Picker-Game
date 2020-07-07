@@ -79,3 +79,7 @@ button:hover {
   display: inline-block;
   width: 20%;
 }
+
+@media (max-width : 400px){
+h4 {height :60px;}
+}
